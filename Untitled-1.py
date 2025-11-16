@@ -6,3 +6,5 @@ print("a+b = ", a+b)
 
 print("Hello mùa đông")
 print("Hello mùa xuân")
+
+print("abdsfsd")
