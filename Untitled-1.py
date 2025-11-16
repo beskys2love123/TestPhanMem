@@ -12,4 +12,5 @@ print("Ngo Cao Thien")
 print("avscw")
 
 print("dsdsadaddsaad sdaasdad")
+print("DEF")
 print("ABC")
